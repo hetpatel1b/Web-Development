@@ -1,182 +1,82 @@
-# 🚀 Web Development Journey
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Development;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+Express.js+%7C+MongoDB;Building+Real+World+Projects;Learning+In+Public+🚀" />
+# 🚀 Web Development
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Full+Stack+Web+Development;Building+Projects+%26+Solving+Problems;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Node.js+%7C+Express.js+%7C+MongoDB;Learning+In+Public+🚀" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C2FF,100:7B68EE&text=Web%20Development%20Journey&fontAlignY=40&fontSize=50&fontColor=ffffff" />
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,vscode,postman" />
 
-<br><br>
+</div>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/hetpatel1b/Web-Development?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/hetpatel1b/Web-Development?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/hetpatel1b/Web-Development?style=for-the-badge)
+---
+
+# 💫 About
+
+This repository documents my complete journey toward becoming a professional Full Stack Developer.
+
+It contains:
+
+* 📚 Learning Notes
+* 💻 Practice Questions
+* 🚀 Real World Projects
+* 🧠 Problem Solving
+* ⚡ Frontend Development
+* 🔥 Backend Development
+* 🌐 MERN Stack Applications
+
+Every commit represents progress.
+
+---
+
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
 
 </div>
 
 ---
 
-# 🌟 About This Repository
-
-Welcome to my **Web Development Repository**.
-
-This repository documents my complete journey of becoming a **Full Stack MERN Developer**.
-
-It contains:
-
-* 📚 Notes & Documentation
-* 💻 Coding Practice
-* 🚀 Real World Projects
-* 🧩 Problem Solving
-* ⚡ Frontend Development
-* 🔥 Backend Development
-* 🌐 Full Stack Applications
-
-Every commit represents learning, experimentation, and growth.
-
----
-
-# 🛠 Tech Stack
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind" />
-</p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render,vercel" />
-</p>
-
----
-
-# 🛣 Learning Path
+# 📂 Repository Architecture
 
 ```text
-HTML
- ↓
-CSS
- ↓
-JavaScript
- ↓
-React
- ↓
-Node.js
- ↓
-Express.js
- ↓
-MongoDB
- ↓
-Full Stack MERN Development
-```
-
----
-
-# 📂 Repository Structure
-
-```bash
-Web-Development/
+Web-Development
 │
-├── HTML/
-├── CSS/
-├── JavaScript/
-├── React/
-├── NodeJS/
-├── ExpressJS/
-├── MongoDB/
-├── SQL/
-├── Projects/
-├── Practice/
-├── Notes/
+├── HTML
+├── CSS
+├── JavaScript
+├── React
+├── NodeJS
+├── ExpressJS
+├── MongoDB
+├── SQL
+├── Projects
+├── Practice
+├── Notes
 └── README.md
 ```
 
 ---
 
-# 🚀 What You'll Find Here
+# 🚀 Learning Roadmap
 
-### Frontend Development
-
-* Semantic HTML
-* Modern CSS
-* Flexbox
-* Grid
-* Responsive Design
-* Bootstrap
-* Tailwind CSS
-* JavaScript ES6+
-* React
-
-### Backend Development
-
-* Node.js
-* Express.js
-* REST APIs
-* Authentication
-* Authorization
-* Session Management
-* MVC Architecture
-
-### Databases
-
-* MongoDB
-* SQL
-* Database Relationships
-* Query Optimization
-
-### Deployment
-
-* Render
-* Vercel
-* Cloudinary
-* Production Deployment
-
----
-
-# 💻 Featured Project Categories
-
-### Beginner Projects
-
-* Portfolio Website
-* Calculator
-* To-Do Application
-* Landing Pages
-
-### Intermediate Projects
-
-* Weather Application
-* Blog Platform
-* Authentication System
-* Dashboard UI
-
-### Advanced Projects
-
-* E-Commerce Platform
-* MERN Applications
-* Real-Time Applications
-* Production Ready Projects
-
----
-
-# 🎯 Goals
-
-* Master Frontend Development
-* Master Backend Development
-* Build Production Ready Applications
-* Learn Industry Best Practices
-* Develop Strong Problem Solving Skills
-* Become Internship Ready
-* Become Industry Ready
+```mermaid
+graph LR
+A[HTML] --> B[CSS]
+B --> C[JavaScript]
+C --> D[React]
+D --> E[Node.js]
+E --> F[Express.js]
+F --> G[MongoDB]
+G --> H[Full Stack Projects]
+```
 
 ---
 
@@ -184,9 +84,9 @@ Web-Development/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hetpatel1b&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hetpatel1b&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hetpatel1b&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -194,31 +94,44 @@ Web-Development/
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1b&theme=tokyo-night&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hetpatel1b&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 💡 Learning Philosophy
+# 🏆 Development Goals
 
-> Learn consistently.
->
-> Build continuously.
->
-> Improve relentlessly.
->
-> Success is the result of small efforts repeated every day.
+```text
+✓ Learn Deeply
+✓ Build Consistently
+✓ Create Real World Projects
+✓ Master MERN Stack
+✓ Become Industry Ready
+✓ Never Stop Learning
+```
 
 ---
 
-# 🌍 Connect With Me
+# 🌟 Philosophy
+
+> Code.
+>
+> Build.
+>
+> Break.
+>
+> Learn.
+>
+> Repeat.
+
+---
 
 <div align="center">
 
-<a href="https://github.com/hetpatel1b">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+## ⚡ Building One Commit At A Time
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
 
 </div>
 
@@ -226,10 +139,8 @@ Web-Development/
 
 <div align="center">
 
-## ⭐ If you find this repository helpful, consider giving it a star.
+### ⭐ Star this repository if you like the journey
 
-### 🚀 Learning • Building • Growing
-
-### One Commit At A Time
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C2FF,100:7B68EE"/>
 
 </div>
